@@ -7,7 +7,7 @@ this version is free and use unlimited but Some features were limited !!
 
 for pro version you must buy license app 
 
-Capabilities :
+# Capabilities :
 
 add to group
 
